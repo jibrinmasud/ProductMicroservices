@@ -14,4 +14,8 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ProductApi.Infrastucture\ProductApi.Infrastucture.csproj" />
+  </ItemGroup>
+
 </Project>
